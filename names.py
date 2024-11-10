@@ -1,2 +1,7 @@
-print("Mam na imię...")  # tutaj wpisz swoje imię
-# i dodaj jeszcze jakiś ciekawy kod
+print("Mam na imię Paweł")
+
+def greet(name):
+    print('Cześć', name, '!')
+
+greet('Marcin')
+
